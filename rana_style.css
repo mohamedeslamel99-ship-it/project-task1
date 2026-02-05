@@ -1,0 +1,44 @@
+.mn{
+margin-left: 450px;
+font-size: 50px;
+}
+
+
+.ar{
+margin-left: 300px;
+font-size: 30px;
+}
+
+form{
+    margin-left: 100px;
+}
+
+
+
+label{
+font-size: 20px;
+    
+}
+
+input{
+
+ width: 1120px;
+ height: 40px;
+border-radius: 20px;
+}
+
+.ra{
+margin-left: 250px;
+width: 600px;
+height: 45px;
+font-size: 30px;
+border-radius: 20px;
+border-width: 0px;
+background-color: rgb(126, 123, 123)
+}
+
+input:hover{
+    background-color:rgb(224, 215, 215);
+}
+
+
